@@ -30,7 +30,9 @@
 >
 > 11. “Qira financiare” është marrëdhënia juridike, sipas së cilës qiradhënësi i blen furnizuesit një send të përzgjedhur nga qiramarrësi pranë furnizuesit dhe ia jep atë qiramarrësit për ta përdorur për një afat të caktuar, kundrejt një çmimi të caktuar në kontratë dhe, me mbarimin e afatit të kontratës, qiramarrësi mund ta blejë sendin, të vazhdojë ta mbajë me qira për një afat tjetër ose t’ia kthejë atë qiradhënësit.
 >
-> 12. “Qiradhënës” është personi juridik, që ka dhe ruan të drejtën e pronësisë mbi sendin dhe që i jep qiramarrësit të drejtën të mbajë dhe të përdorë sendin gjatë afatit të kontratës së qirasë, sipas kushteve të përcaktuara në kontratë.
+> 12. “Qiradhënës” është personi juridik, që ka dhe ruan të drejtën e pronësisë mbi sendin dhe që i jep qiramarrësit të drejtën të mbajë dhe të përdorë sendin gjatë afatit të kontratës së qirasë,
+>
+> sipas kushteve të përcaktuara në kontratë.
 >
 > 13. “Qiramarrës” është personi fizik ose juridik, që mund të fitojë të drejtën e pronësisë pasi ka mbajtur në përdorim sendin gjatë tërë afatit të kontratës së qirasë dhe pasi ka shlyer të gjitha pagesat e qirasë dhe çmimin përfundimtar të blerjes.
 >
@@ -90,7 +92,9 @@ Pikat 2 dhe 3 e shtrijnë zbatimin e ligjit edhe te qiraja financiare e drejtpë
 >
 > 4. Detyrimet e qiramarrësit mund të merren përsipër nga dorëzanës, me anë të kontratës së dorëzanisë, të lidhur ndërmjet qiramarrësit dhe dorëzanësit.
 >
-> 5. Furnizuesi është pala që ka në pronësi, prodhon ose ndërton sendin, sipas kërkesës së qiramarrësit dhe më pas ia shet atë qiradhënësit, përkundrejt pagimit të çmimit të shitjes së sendit nga qiradhënësi.
+> 5. Furnizuesi është pala që ka në pronësi, prodhon ose ndërton sendin, sipas kërkesës së qiramarrësit dhe më pas ia shet atë qiradhënësit, përkundrejt pagimit të çmimit të shitjes së sendit
+>
+> nga qiradhënësi.
 
 Neni 3 identifikon tri palët e qirasë financiare dhe përshkruan rolin e secilës. Pika 1 thekson karakterin trepalësh të marrëdhënies: qiradhënësi, qiramarrësi dhe furnizuesi. Megjithatë, në pikëpamje kontraktore ekzistojnë dy kontrata të veçanta — kontrata e qirasë ndërmjet qiradhënësit dhe qiramarrësit dhe kontrata e furnizimit ndërmjet furnizuesit dhe qiradhënësit (neni 1 pikat 8 dhe 9) — të lidhura funksionalisht ndërmjet tyre (nenet 19 dhe 21).
 
@@ -304,7 +308,9 @@ Dorëzimi ka pasoja të rëndësishme juridike: ai i hap rrugë pranimit (nenet 
 >
 > ç) të dëmshpërblehet për humbjet, që mund të shkaktohen nga mospërmbushja e detyrimeve kontraktore prej qiradhënësit, sipas rastit, edhe duke ia zbritur vlerën e dëmit ose të një pjese të tij pagesave të ardhshme të qirasë.
 >
-> 3. Pavarësisht nga sa parashikohet në pikën 2 të këtij neni, kontrata e qirasë vazhdon efektet, kur qiradhënësi ia dorëzon qiramarrësit sendin pa vonesa të mëtejshme.
+> 3. Pavarësisht nga sa parashikohet në pikën 2 të këtij neni, kontrata e qirasë vazhdon efektet,
+>
+> kur qiradhënësi ia dorëzon qiramarrësit sendin pa vonesa të mëtejshme.
 
 Neni 16 rregullon pranimin e sendit dhe mjetet juridike të qiramarrësit kur sendi nuk është në përputhje me kontratën. Sipas pikës 1, qiramarrësi ka të drejtë të vlerësojë nëse sendi i furnizuar përputhet me përshkrimin në kontratën e qirasë; kur ai përputhet, qiramarrësi **nuk mund ta refuzojë**. E drejta e kontrollit shoqërohet kështu me detyrimin e pranimit të sendit konform.
 
@@ -360,7 +366,9 @@ Pika 2 sqaron se pranimi i prezumuar **nuk shteron mjetet e tjera ligjore** që 
 >
 > b) qiramarrësi nuk merr përsipër detyrime në kontratën e furnizimit;
 >
-> c) qiramarrësi nuk ka të drejtë të zgjidhë ose të kërkojë shfuqizimin e kontratës së furnizimit dhe as të kërkojë uljen e çmimit të shitjes së sendit, të përcaktuar në kontratën e furnizimit, pa pëlqimin e qiradhënësit.
+> c) qiramarrësi nuk ka të drejtë të zgjidhë ose të kërkojë shfuqizimin e kontratës së furnizimit
+>
+> dhe as të kërkojë uljen e çmimit të shitjes së sendit, të përcaktuar në kontratën e furnizimit, pa pëlqimin e qiradhënësit.
 
 Neni 19 përmban një nga zgjidhjet më të rëndësishme të ligjit: **shtrirjen e detyrimeve të furnizuesit edhe kundrejt qiramarrësit**. Detyrimet e furnizuesit ndaj qiradhënësit në kontratën e furnizimit, përfshirë garancitë e shprehura ose të nënkuptuara, janë detyrime edhe ndaj qiramarrësit, “si të ishte edhe ky palë në atë kontratë” (pika 1). Kjo i jep qiramarrësit një pretendim të drejtpërdrejtë ndaj furnizuesit, pavarësisht se ai nuk e ka nënshkruar kontratën e furnizimit.
 
@@ -432,7 +440,9 @@ Pika 5 përjashton të drejtën e zhdëmtimit kur qiramarrësi kishte dijeni pë
 
 **Teksti i dispozitës:**
 
-> Kur furnizuesi nuk përmbush detyrimet ndaj qiramarrësit, të parashikuara në këtë ligj, qiramarrësi ka të drejtë të zhdëmtohet nga furnizuesi për dëmet, që shkaktohen nga mospërmbushja e detyrimeve.
+> Kur furnizuesi nuk përmbush detyrimet ndaj qiramarrësit, të parashikuara në këtë ligj,
+>
+> qiramarrësi ka të drejtë të zhdëmtohet nga furnizuesi për dëmet, që shkaktohen nga mospërmbushja e detyrimeve.
 
 Neni 24 i njeh qiramarrësit të drejtën të **zhdëmtohet nga furnizuesi** për dëmet e shkaktuara nga mospërmbushja e detyrimeve të furnizuesit ndaj tij, të parashikuara në këtë ligj. Dispozita është mjeti juridik që e bën efektiv nenin 19, sipas të cilit detyrimet e furnizuesit ndaj qiradhënësit vlejnë edhe kundrejt qiramarrësit.
 
