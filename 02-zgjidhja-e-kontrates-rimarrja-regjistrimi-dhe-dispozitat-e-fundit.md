@@ -34,9 +34,7 @@ Rasti “b” paraqet vështirësi interpretimi. Ai parashikon zgjidhjen e kontr
 >
 > 4. Qiradhënësi ka të drejtë ta zgjidhë kontratën e qirasë, kur dorëzani i paraqitur nga qiramarrësi është në gjendje paaftësie paguese ose ka falimentuar dhe qiramarrësi nuk arrin ta zëvendësojë atë me një dorëzanës tjetër, të pranueshëm për qiradhënësin, brenda tridhjetë ditëve nga kërkesa me shkrim e qiradhënësit, për kryerjen e këtij zëvendësimi.
 >
-> 5. Qiradhënësi, që kërkon ta zgjidhë kontratën e qirasë, për shkaqet e parashikuara në pikat 3 dhe 4 të këtij neni, detyrohet të njoftojë qiramarrësin me shkrim. Njoftimi i dërgohet qiramarrësit
->
-> brenda 7 ditëve kalendarike para fillimit të procedurës së rimarrjes së sendit, duke i dhënë mundësi qiramarrësit të shlyejë pagesën e qirasë ose të përmbushë ndonjë detyrim tjetër.
+> 5. Qiradhënësi, që kërkon ta zgjidhë kontratën e qirasë, për shkaqet e parashikuara në pikat 3 dhe 4 të këtij neni, detyrohet të njoftojë qiramarrësin me shkrim. Njoftimi i dërgohet qiramarrësit brenda 7 ditëve kalendarike para fillimit të procedurës së rimarrjes së sendit, duke i dhënë mundësi qiramarrësit të shlyejë pagesën e qirasë ose të përmbushë ndonjë detyrim tjetër.
 
 *Shënim në tekstin zyrtar:* (Ndryshuar pikat 2 dhe 5 me ligjin nr. 9823, datë 29.10.2007)
 
@@ -162,9 +160,7 @@ Pika 2 kërkon që gjykata ta nxjerrë vendimin brenda dhjetë ditëve nga depoz
 >
 > 2. Edhe kur qiradhënësi jep pëlqimin për dhënien me nënqira financiare të sendit, qiramarrësi vazhdon të mbetet përgjegjës kundrejt qiradhënësit.
 >
-> 3. Në rast mospagimi të qiramarrësit ose të nënqiramarrësit, kur sendi mbahet me nënqira
->
-> financiare nga nënqiramarrësi, qiradhënësi ka të drejtë ta rimarrë sendin drejtpërdrejt prej nënqiramarrësit, sipas procedurave të njëjta, që zbatohen kur qiradhënësi e rimerr sendin prej qiramarrësit.
+> 3. Në rast mospagimi të qiramarrësit ose të nënqiramarrësit, kur sendi mbahet me nënqira financiare nga nënqiramarrësi, qiradhënësi ka të drejtë ta rimarrë sendin drejtpërdrejt prej nënqiramarrësit, sipas procedurave të njëjta, që zbatohen kur qiradhënësi e rimerr sendin prej qiramarrësit.
 >
 > 4. Dispozitat e këtij ligji zbatohen për kontratën e nënqirasë në lidhje me qiramarrësin, nënqiramarrësin dhe furnizuesin njëlloj si në rastin e marrëdhënieve ndërmjet qiradhënësit, qiramarrësit dhe furnizuesit.
 >
@@ -308,9 +304,7 @@ Pika 2 ka rëndësi të madhe për mbrojtjen e qiradhënësit ndaj të tretëve.
 
 **Teksti i dispozitës:**
 
-> Veprimtaria e qiradhënies financiare, si dhe të gjitha subjektet që kryejnë këtë veprimtari
->
-> licencohen dhe mbikëqyren nga Banka e Shqipërisë, në përputhje me dispozitat e këtij ligji, të ligjit “Për bankat në Republikën e Shqipërisë” dhe akteve nënligjore të nxjerra prej saj për këtë qëllim.
+> Veprimtaria e qiradhënies financiare, si dhe të gjitha subjektet që kryejnë këtë veprimtari licencohen dhe mbikëqyren nga Banka e Shqipërisë, në përputhje me dispozitat e këtij ligji, të ligjit “Për bankat në Republikën e Shqipërisë” dhe akteve nënligjore të nxjerra prej saj për këtë qëllim.
 
 *Shënim në tekstin zyrtar:* (Shtuar me ligjin nr. 9966, datë 24.7.2008)
 
